@@ -7,6 +7,7 @@ async function bootstrap() {
     console.log(
       `Server is running on http://localhost:${process.env.PORT ?? 3000}`,
     );
+    console.log(`Server is running on ${process.env.DB_URL ?? 3000}`);
   });
 }
 bootstrap();
