@@ -1,0 +1,17 @@
+[
+  {
+    "_id": { "$oid": "67688c71883b778a404dc027" },
+    "name": "Coordinator",
+    "repoUrl": "https://github.com/waquino814/coordinator",
+    "description": "main reference for getting others",
+    "deployUrl": "NA"
+  },
+  {
+    "_id": { "$oid": "67689713f7cefd9fa38c7282" },
+    "name": "Project one",
+    "repoUrl": "https://github.com/your-repo",
+    "description": "A short description of the project",
+    "deployUrl": "https://your-deployment-url.com",
+    "__v": 0
+  }
+]
